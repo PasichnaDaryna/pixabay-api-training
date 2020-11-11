@@ -1,5 +1,5 @@
 {
-  "name": "pixabayAPI-training",
+  "name": "pixabay-api-training",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PasichnaDaryna/pixabayAPI-training.git"
+    "url": "git+https://github.com/PasichnaDaryna/pixabay-api-training.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PasichnaDaryna/pixabayAPI-training/issues"
+    "url": "https://github.com/PasichnaDaryna/pixabay-api-training/issues"
   },
-  "homepage": "https://github.com/PasichnaDaryna/pixabayAPI-training#readme",
+  "homepage": "https://github.com/PasichnaDaryna/pixabay-api-training#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "dependencies": {}
 }
